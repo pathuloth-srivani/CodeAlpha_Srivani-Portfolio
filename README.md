@@ -1,17 +1,30 @@
 # Srivani Portfolio Website
 
-A personal portfolio website showcasing my skills, projects, education, and contact information.
+A personal portfolio website created using HTML and CSS to showcase my skills, education, projects, and contact information.
 
 ## Features
 - About Me section
 - Skills section
 - Education details
-- Projects showcase
+- Projects section
 - Contact information
 
 ## Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-##Author
+## Project Structure
+```
+portfolio.html
+style.css
+Srivani.pdf
+README.md
+```
+
+## How to Run
+1. Download or clone the repository.
+2. Open the `index.html` file in any web browser.
+
+## Author
 Srivani Pathuloth
+Frontend Developer
